@@ -1,3 +1,6 @@
+<html>
+<head>
+</head>
 <?php
 
 ?>
@@ -17,7 +20,7 @@
 
 </center>
 </body>
-
+</html>
 <?php
 
 
@@ -31,4 +34,6 @@ for($a=2; $a<count($files); $a++)
     </p>
     <?php
 }
+
+
 
